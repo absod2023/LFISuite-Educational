@@ -16,7 +16,7 @@ This repository is shared strictly for educational reference.
 
 Unauthorized use of this against systems without explicit permission is illegal and unethical.
 
-The maintainer of this fork does not endorse or encourage misuse and is not responsible for consequences resulting from improper or unauthorized use.
+The maintainer of this fork does not endorse or encourage misuse and is not responsible for any consequences resulting from improper or unauthorized use.
 
 
 
