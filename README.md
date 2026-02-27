@@ -5,18 +5,18 @@ This repository is a fork of LFISuite originally created by D35m0nd142.
 Original Repository:
 https://github.com/D35m0nd142/LFISuite
 
-This fork is maintained for reference and cybersecurity training purposes only.
+This fork is maintained for reference and knowledge purposes only.
 
 No ownership of the original source code is claimed.
 This project remains licensed under the GNU General Public License v3 (GPLv3).
 
 ## Responsible Use Statement
 
-This repository is shared strictly for educational reference and authorized security training.
+This repository is shared strictly for educational reference.
 
 Unauthorized use of this against systems without explicit permission is illegal and unethical.
 
-The maintainer of this fork does not endorse, promote, or encourage misuse and is not responsible for any misconduct, damage, or legal consequences resulting from improper or unauthorized use.
+The maintainer of this fork does not endorse or encourage misuse and is not responsible for consequences resulting from improper or unauthorized use.
 
 
 
