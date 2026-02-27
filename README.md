@@ -1,3 +1,25 @@
+## Educational Redistribution Notice
+
+This repository is a fork of LFISuite originally created by D35m0nd142.
+
+Original Repository:
+https://github.com/D35m0nd142/LFISuite
+
+This fork is maintained for reference and cybersecurity training purposes only.
+
+No ownership of the original source code is claimed.
+This project remains licensed under the GNU General Public License v3 (GPLv3).
+
+## Responsible Use Statement
+
+This repository is shared strictly for educational reference and authorized security training.
+
+Unauthorized use of this against systems without explicit permission is illegal and unethical.
+
+The maintainer of this fork does not endorse, promote, or encourage misuse and is not responsible for any misconduct, damage, or legal consequences resulting from improper or unauthorized use.
+
+
+
 ![Version 1.13](https://img.shields.io/badge/Version-1.13-green.svg)
 ![Python 2.7.x](https://img.shields.io/badge/Python-2.7.x-yellow.svg)
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-red.svg)](https://github.com/D35m0nd142/LFISuite/blob/master/COPYING.GPL)
